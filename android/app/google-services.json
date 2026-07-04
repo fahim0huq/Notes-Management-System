@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454730873487",
+    "project_id": "notes-management-system-a0a74",
+    "storage_bucket": "notes-management-system-a0a74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454730873487:android:4db30083ffa5b577ed8efa",
+        "android_client_info": {
+          "package_name": "com.example.note_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCsTIIlnLUz1MUyAOL741ypgj7K-_IxxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
